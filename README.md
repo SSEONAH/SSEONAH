@@ -1,15 +1,27 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=FA991C&height=300&section=header&text=Hello,%20Seonah!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7EFE9&height=300&section=header&text=Hello,%20Seonah!&fontSize=90" />
+
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-1C768F?style=flat&logo=Python&logoColor=white"/> 
+<!--
+ <img src="http://mazandi.herokuapp.com/api?handle={dss05295}&theme=warm"/>
+-->
+  
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSSEONAH&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
+  
+   <img src="https://img.shields.io/badge/Python-1C768F?style=flat&logo=Python&logoColor=white"/>
+  
+  <a href="https://www.instagram.com/novemberseon/"><img src="https://img.shields.io/badge/Instagram-ff1493?style=flat&logo=Instagram&logoColor=white"/></a> <a href="https://blog.naver.com/seonah981107"><img src="https://img.shields.io/badge/Blog-바탕색?style=flat&logo=Naver&logoColor=white"/></a>
 </div>
 
-<div align="center">
-<a href="https://www.instagram.com/novemberseon/"><img src="https://img.shields.io/badge/Instagram-ff1493?style=flat&logo=Instagram&logoColor=white"/></a> <a href="https://blog.naver.com/seonah981107"><img src="https://img.shields.io/badge/Blog-바탕색?style=flat&logo=Naver&logoColor=white"/></a>
-</div>
+
+
+
  
+ 
+
+
 <!--
 **SSEONAH/SSEONAH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
