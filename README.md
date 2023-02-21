@@ -1,10 +1,11 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=A3DCBE&height=300&section=header&text=Hello,%20Seonah&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FA991C&height=300&section=header&text=Hello,%20Seonah!&fontSize=90" />
 
-
-<img src="https://img.shields.io/badge/Python-바탕색?style=flat-square&logo=#3776AB&logoColor=white"/><img src="https://img.shields.io/badge/Instagram-바탕색?style=flat-square&logo=##E4405F&logoColor=white"/><img src="https://img.shields.io/badge/Blog-바탕색?style=flat-square&logo=###03C75A&logoColor=white"/>
-
+<div align="center">
+<img src="https://img.shields.io/badge/Python-1C768F?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Instagram-ff1493?style=flat&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/Blog-바탕색?style=flat&logo=Naver&logoColor=white"/>
+</div>
+  
 <!--
 **SSEONAH/SSEONAH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
