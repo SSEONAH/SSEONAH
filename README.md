@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Python-바탕색?style=flat&logo=#3776AB&logoColor=white"/>
-<img src="https://img.shields.io/badge/Instagram-바탕색?style=flat&logo=##E4405F&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blog-바탕색?style=flat&logo=###03C75A&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-바탕색?style=flat-square&logo=#3776AB&logoColor=white"/><img src="https://img.shields.io/badge/Instagram-바탕색?style=flat-square&logo=##E4405F&logoColor=white"/><img src="https://img.shields.io/badge/Blog-바탕색?style=flat-square&logo=###03C75A&logoColor=white"/>
 
 <!--
 **SSEONAH/SSEONAH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
