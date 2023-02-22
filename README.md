@@ -8,7 +8,8 @@
 <img src="https://img.shields.io/badge/Python-1C768F?style=flat&logo=Python&logoColor=white"/>
   
 📲 SNS
-<a href="https://www.instagram.com/novemberseon/"><img src="https://img.shields.io/badge/Instagram-ff1493?style=flat&logo=Instagram&logoColor=white"/></a> <a href="https://blog.naver.com/seonah981107"><img src="https://img.shields.io/badge/Blog-바탕색?style=flat&logo=Naver&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Gmail-dc143c?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/novemberseon/"><img src="https://img.shields.io/badge/Instagram-ff1493?style=flat&logo=Instagram&logoColor=white"/></a> <a href="https://velog.io/@seona_1107"><img src="https://img.shields.io/badge/Velog-01DF74?style=flat&logo=velog&logoColor=white"/></a> <a href="https://blog.naver.com/seonah981107"><img src="https://img.shields.io/badge/Blog-바탕색?style=flat&logo=Naver&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Gmail-dc143c?style=flat&logo=Gmail&logoColor=white"/></a>
+
 
 
 -----
